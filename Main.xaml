@@ -129,6 +129,6 @@
     <ui:DeserializeJson x:TypeArguments="njl:JObject" JsonSample="{x:Null}" DisplayName="Deserialize JSON" sap:VirtualizedContainerService.HintSize="416,124" sap2010:WorkflowViewState.IdRef="DeserializeJson`1_1" JsonObject="[JSON_Object]" JsonString="[Json_APIResponse]" />
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,118.66666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[JSON_Object(&quot;results&quot;)(0)(&quot;name&quot;)(&quot;first&quot;)]" />
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,176.66666666666666" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[&quot;Project execution completed successfully&quot;]" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,167.33333333333334" sap2010:WorkflowViewState.IdRef="LogMessage_3" Message="[&quot;changes made in TestCloneProject2&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,167.33333333333334" sap2010:WorkflowViewState.IdRef="LogMessage_3" Message="[&quot;changes made in TestCloneProject2 folder for new folder TestCloneProect3&quot;]" />
   </Sequence>
 </Activity>
